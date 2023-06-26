@@ -197,3 +197,18 @@ Here are some open-source references that can be used as a starting point for th
 7. YOLOv5 (2021). YOLOv5 Object Detection Library. https://github.com/ultralytics/yolov5
 
 These open-source resources provide participants with access to a wide range of tools and libraries for developing and testing the object detection and avoidance algorithms, as well as for exploring new possibilities for autonomous navigation. They are a great starting point for participants who are new to the field, and also provide opportunities for more experienced participants to contribute to the development of new features and functionality.
+
+
+
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
