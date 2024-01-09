@@ -65,16 +65,34 @@ The history of object detection and avoidance in automotive technology is a test
 </br>
 
 ## Evaluation
+In this project, every team must host ONE final submission demo & presentation (max. 30 mins) in front of all the other teams. Each team must find a way to organize this presentation making sure that all the other teams can be present and participate actively (Please work out what date/time works the best for every team). The date and time of each team's presentation must be communicated to staff well in advance (at least a week in advance). It is presenting team's responsibility to make sure that all the forms are filled in **immediately** after the presentation.
+
+This project has two evaluation forms:
+1. For evaluators (the audience) - Fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScDmOPBC_sEXiWNCGvxTPrTVGHdmdt0VY5Joz9OgMV29-1Cyg/viewform?usp=sf_link) to evaluate the presenting team's final project submission
+2. For evaluatee (the presentor) - Fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd5s9SclsQ5rz3D86K3csErFntdp-XOJAieVntfY5DDh4ubow/viewform?usp=sf_link) for general feedback on your workings on this project.
 
 </br>
 
 ## Submission
 
 1. Code: The source code of the project, including all necessary files and libraries. The code should be well-documented, readable, and organized in a logical manner.
-2. Technical documentation: Detailed technical documentation that provides an overview of the project, including the background information, goals, objectives, technical requirements, software architecture, and design.
-3. Test results: Detailed test results that demonstrate the performance and accuracy of the autonomous lane detection system. This should include test data and results, as well as any graphs or visualizations that help to show the performance of the system.
+2. Technical documentation: Detailed technical documentation that provides an overview of the object detection and avoidance system, including the background information, projects goals, objectives, technical requirements, software architecture, and design.
+3. Test results: Detailed test results that demonstrate the performance and accuracy of the object detection and avoidance system. This should include test data and results, and visualizations such as graphs that help to illustrate the performance of the system.
 4. User manual: A comprehensive user manual that provides instructions on how to use the autonomous vehicle, including how to set up the sensors and other components, how to control the vehicle, and how to monitor its performance.
 5. Presentation: A presentation that summarizes the project and highlights the key results and contributions of the students. This presentation can be in the form of a slide deck, video, or other format as appropriate.
-6. Final report: A final report that summarizes the project and provides a detailed overview of the work that was completed, the results achieved, and the challenges encountered. The report should also include a discussion of future work that could be done to extend or improve the autonomous lane detection system.
+6. Final report: A final report that summarizes the project and provides a detailed overview of the work that was completed, the results achieved, and the challenges encountered. The report should also include a discussion of future work that could be done to extend or improve the utonomous lane change and collision prevention features.
 
 </br>
+
+# References
+
+Here are some open source references and descriptions that could be used in the Road Surface Segmentation using PiRacer project:
+
+1. OpenCV: OpenCV is a popular open-source computer vision library that provides a wide range of tools and algorithms for image and video processing. Participants could use OpenCV for pre-processing the video footage, extracting features, and identifying the objects.
+    Link: [https://opencv.org/](https://opencv.org/)
+
+2. ROS (Robot Operating System): ROS is an open-source software framework for robotics that provides a wide range of tools and libraries for building robotic systems. Participants could use ROS for integrating the obstacle avoidance algorithm into the PiRacer vehicle with lidar and for testing and validating the algorithm in real-world conditions.
+    Link: https://www.ros.org/
+
+
+These references are just examples and participants are encouraged to explore other open-source tools and resources that may be more suitable for their specific needs and requirements. Participants should be prepared to research and evaluate different open-source tools and resources, and to make informed decisions about which tools and resources to use for their projects.
