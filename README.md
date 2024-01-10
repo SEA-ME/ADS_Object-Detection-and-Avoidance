@@ -80,7 +80,7 @@ This project has two evaluation forms:
 3. Test results: Detailed test results that demonstrate the performance and accuracy of the object detection and avoidance system. This should include test data and results, and visualizations such as graphs that help to illustrate the performance of the system.
 4. User manual: A comprehensive user manual that provides instructions on how to use the autonomous vehicle, including how to set up the sensors and other components, how to control the vehicle, and how to monitor its performance.
 5. Presentation: A presentation that summarizes the project and highlights the key results and contributions of the students. This presentation can be in the form of a slide deck, video, or other format as appropriate.
-6. Final report: A final report that summarizes the project and provides a detailed overview of the work that was completed, the results achieved, and the challenges encountered. The report should also include a discussion of future work that could be done to extend or improve the utonomous lane change and collision prevention features.
+6. Final report: A final report that summarizes the project and provides a detailed overview of the work that was completed, the results achieved, and the challenges encountered. The report should also include a discussion of future work that could be done to extend or improve the autonomous lane change and collision prevention features.
 
 </br>
 
