@@ -1,7 +1,7 @@
-# ADS Project - Object Detection and Avoidance System - Level 1 Autonomy: Autonomous Lane Change and Collision Prevention
+# ADS Project - Object Detection and Avoidance System - Level 2 Autonomy: Autonomous Lane Change and Collision Prevention
 
 
-- [ADS Project - Object Detection and Avoidance System - Level 1 Autonomy: Autonomous Lane Change and Collision Prevention](#ads-project---object-detection-and-avoidance-system---level-1-autonomy-autonomous-lane-change-and-collision-prevention)
+- [ADS Project - Object Detection and Avoidance System - Level 2 Autonomy: Autonomous Lane Change and Collision Prevention](#ads-project---object-detection-and-avoidance-system---level-2-autonomy-autonomous-lane-change-and-collision-prevention)
   - [Description](#description)
   - [Forewords](#forewords)
   - [Objective / Goal of the project](#objective--goal-of-the-project)
@@ -28,7 +28,8 @@ The history of object detection and avoidance in automotive technology is a test
 
 ## Objective / Goal of the project
 
-- To develop a robust simulation-based object detection and avoidance system that can detect obstacles and execute safe lane changes.
+- To develop a robust simulation-based object detection that can detect obstacles and execute safe lane changes.
+- To apply the most appropriate algorithm for collision avoidance.
 - To generate alerts for drivers during autonomous maneuvers and ensure smooth reintegration into traffic.
 - To successfully implement and test the system on a PiRacer model car, using real cameras and sensors.
 
@@ -36,11 +37,10 @@ The history of object detection and avoidance in automotive technology is a test
 
 ## Mandatory Part
 
-1. Create a simulation environment with a vehicle, test track, and a suite of simulated sensors.
-2. Program the vehicle to detect objects using camera and sensor data and to determine safe avoidance strategies.
-3. Implement visual and auditory warning systems for alerting during autonomous interventions.
-4. Design and apply algorithms for steering and braking to facilitate safe object avoidance and lane changes.
-5. Transfer the simulation model to a PiRacer, incorporating real hardware sensors and testing in a controlled environment.
+1. Program the vehicle to detect objects using camera and sensor data and to determine safe avoidance strategies.
+2. Implement visual and auditory warning systems for alerting during autonomous interventions.
+3. Design and apply algorithms for steering and braking to facilitate safe object avoidance and lane changes.
+4. Transfer the simulation model to a PiRacer, incorporating real hardware sensors and testing in a controlled environment.
 
 </br>
 
@@ -86,7 +86,7 @@ This project has two evaluation forms:
 
 # References
 
-Here are some open source references and descriptions that could be used in the Road Surface Segmentation using PiRacer project:
+Here are some open source references and descriptions that could be used in the project:
 
 1. OpenCV: OpenCV is a popular open-source computer vision library that provides a wide range of tools and algorithms for image and video processing. Participants could use OpenCV for pre-processing the video footage, extracting features, and identifying the objects.
     Link: [https://opencv.org/](https://opencv.org/)
