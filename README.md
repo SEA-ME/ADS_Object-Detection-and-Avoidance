@@ -41,6 +41,7 @@ The history of object detection and avoidance in automotive technology is a test
 2. Implement visual and auditory warning systems for alerting during autonomous interventions.
 3. Design and apply algorithms for steering and braking to facilitate safe object avoidance and lane changes.
 4. Transfer the simulation model to a PiRacer, incorporating real hardware sensors and testing in a controlled environment.
+5. Implement the same tasks for road signs detection and recognition (optional).
 
 </br>
 
