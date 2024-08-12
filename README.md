@@ -1,5 +1,5 @@
 # ADS Project - Object Detection and Avoidance System - Level 2 Autonomy: Autonomous Lane Change and Collision Prevention
-
+## Objects in sight, insights in mind
 
 - [ADS Project - Object Detection and Avoidance System - Level 2 Autonomy: Autonomous Lane Change and Collision Prevention](#ads-project---object-detection-and-avoidance-system---level-2-autonomy-autonomous-lane-change-and-collision-prevention)
   - [Description](#description)
